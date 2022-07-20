@@ -4,7 +4,7 @@ function Banniere() {
     return (
     <div class='Banniere'>
     <img class = 'image' src={image} />
-    <h1> Bienvenue sur blogleo</h1>
+    <h1> Bienvenue sur blogleooooooooo</h1>
     </div>
     )
 }
